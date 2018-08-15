@@ -223,10 +223,11 @@ public class CameraActivity extends AppCompatActivity {
             String br=System.getProperty("line.separator");
             String hasil=
                     "<html>"+
-                        "<p style=\"text-align:justify;\">"+
+                        /*"<p style=\"text-align:justify;\">"+
                             "<b>Contoh Sayur</b>"+
                             "<br>\t"+n_sayur+
                         "</p>"+
+                        */
                         "<p style=\"text-align:justify;\">"+
                             "<b>Kandungan Gizi</b>"+
                             "<br>\t"+k_gizi+
