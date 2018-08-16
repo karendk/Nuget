@@ -19,6 +19,6 @@ Java
 ## Built With
 * [Android Studio](https://developer.android.com/studio/) - The tools for building android apps
 ## Authors
-* **Karen D.** - *Computer Science* - [CV](https://karendk.github.io/)
+* **Karen D.** - *Developer* - [CV](https://karendk.github.io/)
 ## License
 This project is licensed under the MIT License
