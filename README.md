@@ -22,3 +22,5 @@ Java
 * **Karen D.** - *Developer* - [CV](https://karendk.github.io/)
 ## License
 This project is licensed under the MIT License
+## Acknowledgments
+* LKTA team: Amnia, Afrida
