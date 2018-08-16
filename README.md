@@ -1,5 +1,5 @@
 # Nuget
-This is a Nuget (Nutrient Vegetable Detector) with simple average color detection from images
+This is a Nuget *(Nutrient Vegetable Detector)* with simple average color detection from images
 ## Platform
 Android
 ### Requirement
