@@ -24,4 +24,5 @@ Java
 This project is licensed under the MIT License
 ## Acknowledgments
 * LKTA team: Amnia, Afrida
+* [www.jogja.tribunnews.com](https://jogja.tribunnews.com/2017/07/05/mahasiswa-uin-sunan-kalijaga-menang-lomba-aplikasi-adroidberbasis-intrepretasi-alquran)
 * [www.islamindonesia.id](https://islamindonesia.id/berita/terinspirasi-al-baqarah-61-mahasiswa-uin-yogya-buat-aplikasi-android-pendeteksi-gizi.htm)
